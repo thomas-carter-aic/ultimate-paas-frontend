@@ -47,7 +47,7 @@ This project follows a **microfrontend architecture** using **Turborepo** as the
 
 1. **Clone and navigate to the project**:
    ```bash
-   cd /home/oss/Business/workspaces/nexus-workspace/v7/ultimate-paas-frontend
+   cd ultimate-paas-frontend
    ```
 
 2. **Install dependencies**:
